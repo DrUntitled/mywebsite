@@ -1,0 +1,18 @@
+body{
+    display: block;
+    margin: 0px;
+    text-align: center;
+    background-color:  #1a1a1a;
+    color: white;
+}
+.site-container{
+    height: 100%;
+    width: 100%;
+    min-height: 100%;
+}
+.middle-container{
+    width: 50%;
+    left: 50%;
+    transform: translateX(50%);
+}
+    
